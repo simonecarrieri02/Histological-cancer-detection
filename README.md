@@ -244,6 +244,7 @@ optimizer = BayesianOptimizationCNN(trainer, n_initial=5, n_iterations=10)
 best_params, best_val_acc = optimizer.optimize()
 ```
 
+
 ---
 
 ## Requirements
