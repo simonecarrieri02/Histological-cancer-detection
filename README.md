@@ -1,6 +1,9 @@
-# histopathologic-cancer-detection
+# Histopathologic Cancer Detection
 
 CNN-based binary classifier for histopathologic cancer detection on the PatchCamelyon (PCam) benchmark. Trained on 220k H&E-stained lymph node patches; achieves **93.22% test accuracy** and **ROC-AUC 0.9805** with a custom PyTorch pipeline including Bayesian hyperparameter optimization.
+
+**Course:** Deep Learning Methods for Biomedicine — Universitat Politècnica de Catalunya (UPC)  
+**Academic year:** 2025
 
 ---
 
